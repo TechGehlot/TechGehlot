@@ -1,0 +1,43 @@
+.container{
+    background-color:beige;
+    height: 1000px;
+    
+}
+
+.header{
+    margin: 1% auto;
+   display: flex;
+   justify-content: center;
+    background-color: gray;
+    height: 100px;
+    /* width: 50%; */
+    align-items: center;
+    text-align: center;
+}
+
+
+.alert-danger{
+    font-size: larger ;
+    text-align: center;
+}
+p{
+    font-size: 200%;
+    text-align: center;
+    
+}
+.p2{
+    background-color: gray;
+    height: 50px;
+    font-size: 200%;
+    color: white;
+    text-align: center;
+}
+footer{
+    background-color: gray;
+    font-size: 15px;
+    text-align: center;
+}
+ul{
+
+    justify-content: center;
+}
