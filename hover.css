@@ -1,0 +1,32 @@
+.col-md-6 img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.col-md-6:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+.ms-3 img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.ms-3:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+.mb-3 img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.mb-3:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
